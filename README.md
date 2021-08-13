@@ -50,7 +50,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/AbhinavRajputEXE/github-readme-activity-graph"><img alt="AbhinavRajput's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbhinavRajputEXE&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
+<a href="https://github.com/AbhinavRajputEXE/github-readme-activity-graph"><img alt="Abhinav Rajput's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbhinavRajputEXE&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
