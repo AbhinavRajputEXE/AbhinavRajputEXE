@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Github repositories](https://github.com/AbhinavRajputEXE?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My Github](https://github.com/AbhinavRajputEXE?tab=repositories)**
 
 - 📫 How to reach me **abhinavrajputaes@gmail.com**
 
@@ -38,7 +38,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📈 My Github Stats
 
   <br/>
     <a href="https://github.com/AbhinavRajputEXE/github-readme-stats"><img alt="AbhinavRajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbhinavRajputEXE&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
