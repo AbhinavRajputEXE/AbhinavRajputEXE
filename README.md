@@ -60,6 +60,6 @@
 
 <a href = "https://www.linkedin.com/in/theabhinavrajput/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/abhinav_rajput.dll/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.codechef.com/users/abhinav_rajput"><img src="https://img.icons8.com/office/16/000000/cook-male--v1.png"/></a>
+<a href = "https://www.codechef.com/users/abhinav_rajput"><img src="https://img.icons8.com/office/48/000000/cook-male--v1.png"/></a>
 
 </p>
